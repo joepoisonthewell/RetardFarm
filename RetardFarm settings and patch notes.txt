@@ -1,0 +1,26 @@
+Retard Farm Server Est. 12-2-23
+
+EXP rate 5x 
+Skillups (Including crafting) 5x
+Fame Rate 5x
+
+Force spawn and timed HNM spawns
+Content up to WOTG mostly coded (mini expansions partially coded, first few WOTG coded)
+Trusts enabled (Not all of them are coded, but there's quite a few to choose from)
+Fields of Valor\Grounds Tomes enabled (FOV augments via Elite Training are not fully coded)
+Voidwalker NMs (VNM) mostly implemented (Yilbegan and a few others missing skills/abilities)
+Magian Trials not implemented (Mostly uncoded)
+Records of Eminence (ROE) implemented, at least partially coded
+Synergy unimplemented/not coded
+
+Dynamis/Prismatic Hourglass 500g
+Cosmo Cleanse 500g
+
+12-15-23 Patch Notes
+
+Added Blu to Ridill
+Added BLU to Lucky Coin (And changed it's level from 76 to 75)
+
+12-22-23
+
+Added BLU COR PUP and WAR to Excalibur, Annihilator, Spharai and Guttler respectively
